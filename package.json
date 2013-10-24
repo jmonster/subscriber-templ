@@ -4,6 +4,7 @@
   "description": "a template for writing a redis subscriber in node.js",
   "main": "subscriber.js",
   "scripts": {
+    "start": "node subscriber.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
